@@ -1,4 +1,9 @@
 ## Hello there👋, I'm Tobias Tymkiw 
+<div align ="center">
+    <img src= "https://64.media.tumblr.com/e0b726934821432b7450deaee576e915/tumblr_mlrxrvQRio1r3apovo1_500.gifv"/>
+  </div>
+  
+  
 - I recently graduated as a Full-Stack Developer.
 - 🌱 I’m currently learning new languajes such as typescript and python.
 - 🐱‍🏍 I’m looking to collaborate on projects with other people where I can make use of technical and soft skills .
