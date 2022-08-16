@@ -1,8 +1,8 @@
 ## Hello there👋, I'm Tobias Tymkiw 
-- I recently graduated as a Full-Stack Developer
-- 🌱 I’m currently learning new languajes such as typescript and python
-- 🐱‍🏍 I’m looking to collaborate on projects with other people where I can make use of technical and soft skills 
-- 📍  I’m located in Resistencia, Chaco, Argentina 🧉
+- I recently graduated as a Full-Stack Developer.
+- 🌱 I’m currently learning new languajes such as typescript and python.
+- 🐱‍🏍 I’m looking to collaborate on projects with other people where I can make use of technical and soft skills .
+- 📍  I’m located in Resistencia, Chaco, Argentina 🧉.
 <br></br>
 - 📩 Contact with me via:
 
