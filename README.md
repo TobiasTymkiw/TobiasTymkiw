@@ -2,6 +2,8 @@
 <div align ="center">
     <img src= "https://64.media.tumblr.com/e0b726934821432b7450deaee576e915/tumblr_mlrxrvQRio1r3apovo1_500.gifv"/>
   </div>
+  
+  
 
 - I recently graduated as a Full-Stack Developer.
 - 🌱 I’m currently learning new languajes such as typescript and python.
@@ -30,12 +32,12 @@ For more information visit the website of Rebirth:
 <br/>
 
 
+
 <h3><mark>&nbsp;Countries App&nbsp;</mark></h3>
 
 ![PI](https://user-images.githubusercontent.com/83791366/185258804-71fcf3f4-bd35-49ef-93fe-f44ef6690305.png)
 
-
-<h4>Development of a SPA (Single Page Application) using React for the Front End and Redux as stmanagement. All components were developed with CSS without the use of external libraries.
+Development of a SPA (Single Page Application) using React for the Front End and Redux as stmanagement. All components were developed with CSS without the use of external libraries.
 The SPA consumes data from an API (“REST Countries”) through a Back End developed in Node.JS using Express, adding new functionalities to the original API.
-Some features of the project: Cache of searches, orders and filters, controlled form for the creation of tourist activities.</h4>
+Some features of the project: Cache of searches, orders and filters, controlled form for the creation of tourist activities.
 
