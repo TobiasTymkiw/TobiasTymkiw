@@ -26,8 +26,16 @@ Implemented technologies: React, Redux, Node, Sequelize, Bootstrap, Express, Mer
 For more information visit the website of Rebirth:
 <a href="https://frontend-rebirth.vercel.app/" target="blank">LINK</a>
 
+<br/>
+<br/>
 
-<!---
-TobiasTymkiw/TobiasTymkiw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<h3><mark>&nbsp;Countries App&nbsp;</mark></h3>
+
+![PI](https://user-images.githubusercontent.com/83791366/185258804-71fcf3f4-bd35-49ef-93fe-f44ef6690305.png)
+
+
+<h4>Development of a SPA (Single Page Application) using React for the Front End and Redux as stmanagement. All components were developed with CSS without the use of external libraries.
+The SPA consumes data from an API (“REST Countries”) through a Back End developed in Node.JS using Express, adding new functionalities to the original API.
+Some features of the project: Cache of searches, orders and filters, controlled form for the creation of tourist activities.</h4>
+
