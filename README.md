@@ -12,7 +12,7 @@
 - 📩 Contact with me via:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/tobias-tymkiw/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/tobias-tymkiw/" height="30" width="40" /></a> 
+<a href="https://www.linkedin.com/in/tobias-tymkiw/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/tobias-tymkiw/" height="30" width="40" fill='#ffff'/></a> 
 </p>
 <p> ✉ tobiastymkiw@gmail.com</p>
 <br></br>
