@@ -8,13 +8,11 @@
 
 📖 I am also currently completing a technical degree in computer security.
 
-- 📩 Contact me via:
 
-    [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tobias-tymkiw/)
-    [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:tobiastymkiw@gmail.com)
+📩 Contact me via:
 
-
-
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tobias-tymkiw/)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:tobiastymkiw@gmail.com)
 
 
-
+[comment]:<https://github.com/tandpfun/skill-icons?tab=readme-ov-file#example>
